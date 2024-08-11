@@ -1,5 +1,21 @@
-def some_function(value):
-    print(value)
+class test:
+    a=13
+    
+    def fun(self,b):
+        self.b=12
+        print(test.a)
+        print(self.a)
+        print(self.b)
+        print(b)
+        
 
-i = 0
-some_function(i += 1)  # This will raise a SyntaxError
+
+
+a=test()
+b=test()
+
+a.fun(12)
+
+
+a.a=23
+print(test.a,a.a)
