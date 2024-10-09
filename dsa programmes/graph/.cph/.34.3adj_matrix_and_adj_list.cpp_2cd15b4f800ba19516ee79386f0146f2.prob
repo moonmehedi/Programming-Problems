@@ -1,0 +1,1 @@
+{"name":"Local: 34","url":"d:\\cpp\\dsa programmes\\graph\\34.3adj_matrix_and_adj_list.cpp","tests":[{"id":1684760980218,"input":"7 7\n1 2 \n1 3\n2 4 \n2 5\n2 6\n2 7\n7 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\dsa programmes\\graph\\34.3adj_matrix_and_adj_list.cpp","group":"local","local":true}

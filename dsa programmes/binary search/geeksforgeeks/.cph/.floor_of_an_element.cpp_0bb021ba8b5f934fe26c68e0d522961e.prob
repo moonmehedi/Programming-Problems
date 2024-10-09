@@ -1,0 +1,1 @@
+{"name":"Local: floor_of_an_element","url":"d:\\cpp\\dsa programmes\\binary search\\geeksforgeeks\\floor_of_an_element.cpp","tests":[{"id":1681447268102,"input":"6\n1 3 5 7 9 12\n15","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\dsa programmes\\binary search\\geeksforgeeks\\floor_of_an_element.cpp","group":"local","local":true}

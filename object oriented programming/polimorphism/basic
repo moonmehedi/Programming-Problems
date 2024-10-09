@@ -1,0 +1,7 @@
+
+polymorphism in c++ can be two types
+    1.compile time polymorphism /early binding
+        1.1->function overloading
+        1.2->oparatoroverloading
+    2.runtime polymorphism 
+        2.1->virtual functions

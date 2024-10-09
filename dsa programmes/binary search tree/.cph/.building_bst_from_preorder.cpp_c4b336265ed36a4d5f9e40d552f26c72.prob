@@ -1,0 +1,1 @@
+{"name":"Local: building_bst_from_preorder","url":"d:\\cpp\\dsa programmes\\binary search tree\\building_bst_from_preorder.cpp","tests":[{"id":1683287339205,"input":"","output":"10 2 1 13 11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\dsa programmes\\binary search tree\\building_bst_from_preorder.cpp","group":"local","local":true}

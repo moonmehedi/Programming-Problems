@@ -1,0 +1,1 @@
+{"name":"Local: ratinmaze","url":"d:\\cpp\\dsa programmes\\recursion\\ratinmaze.cpp","tests":[{"id":1677559378081,"input":"5\n1 0 1 0 1\n1 1 1 1 1\n0 1 0 1 0\n1 1 0 1 1\n1 1 1 0 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\cpp\\dsa programmes\\recursion\\ratinmaze.cpp","group":"local","local":true}
